@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'language', 'de', {
-	button: 'Sprache festlegen',
-	remove: 'Sprache entfernen'
+CKEDITOR.plugins.setLang( 'language', 'fo', {
+	button: 'Velja tungumál',
+	remove: 'Remove language' // MISSING
 } );
