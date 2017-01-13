@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'language', 'no', {
-	button: 'Sett språk',
-	remove: 'Fjern språk'
+CKEDITOR.plugins.setLang( 'language', 'az', {
+	button: 'Dilini təyin et',
+	remove: 'Dilini sil'
 } );
