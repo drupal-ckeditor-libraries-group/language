@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
-CKEDITOR.plugins.setLang( 'language', 'zh', {
-	button: '設定語言',
-	remove: '移除語言'
+CKEDITOR.plugins.setLang( 'language', 'ro', {
+	button: 'Alege limba',
+	remove: 'Șterge limba deja selectată'
 } );
